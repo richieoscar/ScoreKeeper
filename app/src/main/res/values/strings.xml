@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="zero">0</string>
+    <string name="team_a">Man United</string>
+    <string name="team_b">Chelsea</string>
+    <string name="versus">vs</string>
+    <string name="reset">Reset</string>
+    <string name="goal">Goal</string>
+    <string name="free_kick">Free Kick</string>
+    <string name="penalty">Penalty</string>
+    <string name="f_k">F.K</string>
+    <string name="p_k">P.K</string>
+    <string name="goal_points">Goal Points</string>
+    <string name="game_statistics">Game Statistics</string>
+</resources>
